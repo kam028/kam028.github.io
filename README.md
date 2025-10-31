@@ -7,4 +7,4 @@ Graduate student in Applied Data Science and Analytics at Howard University with
 
 * **Academic Email:** [kaitlin.mitchell@bison.howard.edu](mailto:kaitlin.mitchell@bison.howard.edu)
 * **Personal Email:** [mitchellkaitlin@ymail.com](mailto:mitchellkaitlin@ymail.com)
-* **LinkedIN:** [www.linkedin.com/in/kaitlin-mitchell-a983b726b](www.linkedin.com/in/kaitlin-mitchell-a983b726b)
+* **LinkedIn:** [www.linkedin.com/in/kaitlin-mitchell-a983b726b](www.linkedin.com/in/kaitlin-mitchell-a983b726b)
