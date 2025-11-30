@@ -117,5 +117,5 @@ DATA-304 Data-Driven Change • DATA-401 GIS :contentReference[oaicite:19]{index
 ---
 
 ## Download PDF
-[Download my CV (PDF)](/assets/K_Mitchell_CV.pdf)
+[Download my CV (PDF)](/K_Mitchell_CV.pdf)
 
