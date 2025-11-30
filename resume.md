@@ -42,7 +42,7 @@ Built an interactive Tableau dashboard analyzing pretrial trends across race/eth
 
 ### Bob Damron’s Address Books, K. Mitchell DATA 301 Final, Tableau Public, December 2024 
 Analyzed and visualized historical LGBTQ+ spaces using Tableau Public.  
-[**Link:** https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/BobDamronsAddressBook-K_MitchellDATA301Final/TitlePage#1 ](https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/BobDamronsAddressBook-K_MitchellDATA301Final/TitlePage#1 )
+[https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/BobDamronsAddressBook-K_MitchellDATA301Final/TitlePage#1 ](https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/BobDamronsAddressBook-K_MitchellDATA301Final/TitlePage#1 )
 
 
 ### Bob Damron’s Address Books: Charting LGBTQ+ Spaces, PowerBI, December 2024
