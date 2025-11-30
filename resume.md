@@ -97,6 +97,8 @@ Completed multiple analyses exploring rhetoric, identity, and policy using model
 - *Binary Algorithms… & the Transgender Community*, DATA 201, 2023 
 - *Arrowhead Trailer Park: Rhetoric & Testimony*, NAU Sociology, 2018 
 - *Race & Faith in Communities & Churches*, Leadership Alliance Symposium, 2017 
+
+
 ---
 
 ## Core Coursework
