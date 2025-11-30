@@ -45,9 +45,7 @@ Analyzed and visualized historical LGBTQ+ spaces using Tableau Public.
 **Link:** https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/BobDamronsAddressBook-K_MitchellDATA301Final/TitlePage#1 
 
 ### Bob Damron’s Address Books: Charting LGBTQ+ Spaces, PowerBI, December 2024
-https://app.powerbi.com/view?r=eyJrIjoiZDE0YmYxNjEtM2M4NC00MTZlLThhZDEtZTY5MT
-M2NzI4MDk1IiwidCI6IjAyYWMwYzA3LWI3NWYtNDZiZi05YjEzLTM2MzBiYTk0YmI2OSIsImMi
-OjF9
+https://app.powerbi.com/view?r=eyJrIjoiZDE0YmYxNjEtM2M4NC00MTZlLThhZDEtZTY5MTM2NzI4MDk1IiwidCI6IjAyYWMwYzA3LWI3NWYtNDZiZi05YjEzLTM2MzBiYTk0YmI2OSIsImMiOjF9
 
 ### Binary Algorithms, the U.S. Customs and Border Protection, and Airports vs. The
 Transgender Community | DATA 201 - Computational Social Justice December 2023
