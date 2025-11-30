@@ -2,7 +2,7 @@
 
 Graduate student in Applied Data Science and Analytics at Howard University with a background in federal human resources. Experienced in data cleaning, visualization, and storytelling using R, Python, and Tableau. Seeking to apply data-driven insights to promote equity, efficiency, and innovation in applied data science roles.
 ---
-### ➤ [View My Resume](https://kam028.github.io/K.A.MitchellCV.pdf)
+### ➤ [View My Resume](https://kam028.github.io/resume.md)
 
 ### Contact Me
 
