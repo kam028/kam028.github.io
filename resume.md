@@ -113,5 +113,5 @@ DATA-401 Intro to Geo Info System (GIS)
 ---
 
 ## Download PDF
-[Download my CV (PDF)](/K_Mitchell_CV.pdf)
+[Download my CV (PDF)](/K.A.MitchellCV.pdf)
 
