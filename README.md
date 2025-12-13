@@ -18,4 +18,6 @@ An interactive Tableau dashboard allows non-technical users to explore trends in
 
 - **Interactive Tableau Dashboard:**  
   https://public.tableau.com/app/profile/kaitlin.mitchell2596/viz/CapstoneProject_17647055917570/Dashboard5?publish=yes
-- **Project Repository:**  
+- **Project Repository:**
+  https://github.com/kam028/capstone-GDELT-transgender_media_framing
+
